@@ -1,0 +1,11 @@
+пакет {
+    имя = "skyforge-random"
+    версия = "0.1.0"
+    автор = "SkyPackages"
+    описание = "Генерация безопасных паролей и случайных строк."
+    репозиторий = "github.com/skytech-alt/skyforge-random"
+    точка_входа = "code/main.skf"
+    теги = ["random", "password", "security"]
+    лицензия = "MIT"
+    зависимости = []
+}
